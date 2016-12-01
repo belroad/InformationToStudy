@@ -80,6 +80,11 @@ https://kyungw00k.github.io/2015/09/09/windows-10-vagrant-box-만들기/
       <li>vagrant box add ubuntu/precise64</li>
     </ul>
   </li>
+  <li>box 
+    <ul>
+      <li>vagrant init ubuntu/precise64</li>
+    </ul>
+  </li>    
   <li> vagrant 설정 
     <ul>
       <li>Vagrantfile 를 vi에디터로 열어서 다음의 주석을 해제 및 수정한다.</li>
