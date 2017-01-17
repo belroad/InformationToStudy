@@ -19,7 +19,7 @@
      2) /mongodb/bin/mongod  아닌 다른 폴더일 경우 데이터 저장 폴더가 /data/db 일 경우 <br/>
          < path to binary >/mongod <br/>
      3) /mongodb/bin/mongod  존재하고 데이터 저장 폴더가 /data/db 가 아닐 경우 <br/>
-         mongod —dbpath < path to data directory > <br/>
+         mongod --dbpath < path to data directory > <br/>
      
 
 
